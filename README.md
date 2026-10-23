@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./Banner Futurista de Desenvolvimento em Código.png" width="100%" alt="Giovanna Ledo — Software Development Student">
+</div>
+<br/>
  <div align="center">
 
 # Giovanna Ledo
