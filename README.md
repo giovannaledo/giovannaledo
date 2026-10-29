@@ -2,7 +2,7 @@
   <img src="https://github.com/giovannaledo/giovannaledo/raw/main/Banner%20Futurista%20de%20Desenvolvimento%20em%20C%C3%B3digo.png" alt="Giovanna Ledo, desenvolvimento de software" width="100%">
 </p>
 
-# Oi, eu sou a Giovanna 👋
+# Oi, eu sou a Giovanna 
 
 **Estudante de Desenvolvimento de Software Multiplataforma na FATEC 🇧🇷**
 *Transformando problemas do dia a dia em soluções práticas com código.*
