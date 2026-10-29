@@ -1,63 +1,72 @@
-<div align="center">
-  <img src="./Banner Futurista de Desenvolvimento em Código.png" width="100%" alt="Giovanna Ledo — Software Development Student">
-</div>
-<br/>
- <div align="center">
+<p align="center">
+  <img src="https://github.com/giovannaledo/giovannaledo/raw/main/Banner%20Futurista%20de%20Desenvolvimento%20em%20C%C3%B3digo.png" alt="Giovanna Ledo, desenvolvimento de software" width="100%">
+</p>
 
-# Giovanna Ledo
+# Oi, eu sou a Giovanna 👋
 
-**Software Development Student · FATEC 🇧🇷**
+**Estudante de Desenvolvimento de Software Multiplataforma na FATEC 🇧🇷**
+*Transformando problemas do dia a dia em soluções práticas com código.*
 
-*Building practical solutions through code.*
-
-[LinkedIn](https://www.linkedin.com/in/giovannaledo) · [My Projects](https://github.com/giovannaledo?tab=repositories)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/giovannaledo) · [Meus projetos](https://github.com/giovannaledo?tab=repositories)
 
 ---
 
-## About Me
+## Sobre mim
 
-Hello! I'm Giovanna, a Multiplatform Software Development student at FATEC in Brazil.
+Gosto de desenvolvimento de software, bancos de dados e de criar soluções que as pessoas realmente usam.
 
-I'm interested in software development, databases, and creating practical solutions through technology.
+-  Cursando Desenvolvimento de Software Multiplataforma na FATEC
+-  Evoluindo em programação e bancos de dados
+-  Curiosa por resolver problemas e construir aplicações
+-  Aprendendo na prática, projeto a projeto
+-  Aberta a estágio e oportunidades iniciais em tecnologia
 
-- 🎓 Studying Multiplatform Software Development at FATEC.
-- 💻 Developing my skills in programming and databases.
-- 🧩 Interested in problem-solving and application development.
-- 🌱 Learning through academic projects and hands-on practice.
-- 🌎 Open to internship and entry-level opportunities in technology.
+## O que eu faço por pequenos negócios
 
-## Technologies
+Ajudo empresas a vender online e organizar o caixa:
 
-- **Programming:** Python, JavaScript
-- **Databases:** SQL, MySQL, Redis
-- **Areas of interest:** Web Development, Software Development, Database Design
+-  Loja virtual para varejo e atacado
+-  PDV com leitor de código de barras e integração com maquininha
+-  Migração de produtos e treinamento da equipe
+-  Planejamento: entendo a sua operação antes de indicar a ferramenta certa
 
-## Featured Projects
+## Tecnologias
 
-### 💧 SiSGEH — Hydroelectric Generation Simulator
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-An academic project focused on simulating hydroelectric power generation to support learning through configurable parameters and different operating scenarios.
+**Áreas de interesse:** desenvolvimento web, desenvolvimento de software e modelagem de banco de dados.
 
-**Focus:** Educational software, requirements analysis, and interface design.
+## Projetos em destaque
 
-### 🏡 Pousada Pedra Furada
+###  SiSGEH: Simulador de Geração Hidrelétrica
+Projeto acadêmico que simula a geração de energia hidrelétrica, com parâmetros configuráveis e diferentes cenários de operação.
+**Foco:** software educacional, levantamento de requisitos e design de interface.
 
-A web development project focused on a task management system.
+###  Pousada Pedra Furada
+Sistema web de gerenciamento de tarefas para uma pousada.
+**Foco:** desenvolvimento web e engenharia de software.
+[Ver repositório →](https://github.com/giovannaledo/Pedra-Furada)
 
-**Focus:** Web development and software engineering.
+## Idiomas
 
-[Explore my repositories →](https://github.com/giovannaledo?tab=repositories)
+🇧🇷 Português: nativo · 🇺🇸 Inglês: B2 (TOEIC)
 
-## Languages
+## Vamos conversar?
 
-- Portuguese — Native
-- English — B2 (TOEIC)
+Se você tem um negócio, uma ideia ou uma vaga, fale comigo pelo [LinkedIn](https://www.linkedin.com/in/giovannaledo).
 
-## Let's Connect
+<details>
+<summary>🇺🇸 English summary</summary>
 
-I'm always interested in learning, collaborating, and building useful things through technology.
+I'm Giovanna, a Multiplatform Software Development student at FATEC (Brazil). I work with Python, JavaScript and SQL databases, and I help small businesses set up online stores and point-of-sale systems. Open to internships and entry-level roles.
+
+</details>
+
+*Aprendendo construindo. Melhorando a cada projeto.*
+
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/giovannaledo)
 
