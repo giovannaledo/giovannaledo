@@ -30,6 +30,8 @@ Ajudo empresas a vender online e organizar o caixa:
 -  Migração de produtos e treinamento da equipe
 -  Planejamento: entendo a sua operação antes de indicar a ferramenta certa
 
+**Em andamento:** planejamento de uma loja online e de um PDV para uma empresa de atacado que está começando a vender no varejo. Quando for entregue, os resultados entram aqui. Junto de uma integração de outro projeto de uma loja do ifood.
+
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,14 +43,15 @@ Ajudo empresas a vender online e organizar o caixa:
 
 ## Projetos em destaque
 
-###  SiSGEH: Simulador de Geração Hidrelétrica
+### 💧 SiSGEH: Simulador de Geração Hidrelétrica
 Projeto acadêmico que simula a geração de energia hidrelétrica, com parâmetros configuráveis e diferentes cenários de operação.
 **Foco:** software educacional, levantamento de requisitos e design de interface.
 
-###  Pousada Pedra Furada
+### 🏡 Pousada Pedra Furada
 Sistema web de gerenciamento de tarefas para uma pousada.
 **Foco:** desenvolvimento web e engenharia de software.
 [Ver repositório →](https://github.com/giovannaledo/Pedra-Furada)
+
 
 ## Idiomas
 
@@ -56,7 +59,11 @@ Sistema web de gerenciamento de tarefas para uma pousada.
 
 ## Vamos conversar?
 
-Se você tem um negócio, uma ideia ou uma vaga, fale comigo pelo [LinkedIn](https://www.linkedin.com/in/giovannaledo).
+Se você tem um negócio, uma ideia ou uma vaga, fale comigo:
+
+-  [LinkedIn](https://www.linkedin.com/in/giovannaledo)
+-  [seu-email@exemplo.com](mailto:giovanna.oledo.com)
+-  [WhatsApp](https://wa.me/11933983222)
 
 <details>
 <summary>🇺🇸 English summary</summary>
@@ -66,12 +73,3 @@ I'm Giovanna, a Multiplatform Software Development student at FATEC (Brazil). I 
 </details>
 
 *Aprendendo construindo. Melhorando a cada projeto.*
-
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/giovannaledo)
-
-<div align="center">
-
-*Learning by building. Improving with every project.*
-
-</div>__
