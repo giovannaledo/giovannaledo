@@ -62,7 +62,7 @@ Sistema web de gerenciamento de tarefas para uma pousada.
 Se você tem um negócio, uma ideia ou uma vaga, fale comigo:
 
 -  [LinkedIn](https://www.linkedin.com/in/giovannaledo)
--  [![Email](https://shields.io)](mailto:giovanna.oledo@gmail.com)
+-  [Envie um e-mail](mailto:giovanna.oledo@gmail.com)
 -  [WhatsApp](https://wa.me/11933983222)
 
 <details>
